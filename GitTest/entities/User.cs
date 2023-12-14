@@ -7,6 +7,10 @@ namespace GitTest.entities
 {
     internal class User
     {
+
         public int Id { get; set; }
+
+        public int MSSV { get; set; }
+
     }
 }
